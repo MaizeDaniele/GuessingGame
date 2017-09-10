@@ -1,5 +1,5 @@
 README.md:
-	echo "# guessinggame script"  > README.md
+	echo "# Guessinggame script"  > README.md
 	echo "- Make was run at:" >> README.md
 	date >> README.md
 	echo "- Number of lines of code:" >> README.md
